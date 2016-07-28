@@ -1,4 +1,4 @@
-# data-visualization
+# Data Visualization
 
 In this session you will experiment with different options for data visualization in javascript. 
 
