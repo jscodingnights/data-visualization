@@ -29,3 +29,8 @@ Allow setting a base index. Selecting a date from the current data set which rep
 
 # Boss fight
 Combine data from the two sets to display the bookings per day and the total vehicles per day line. There should be two x axis representing the different scales of information.
+
+# References
+https://d3js.org/
+https://developers.google.com/chart/
+http://www.highcharts.com/
